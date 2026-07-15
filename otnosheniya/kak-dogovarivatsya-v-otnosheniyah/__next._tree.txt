@@ -1,3 +1,3 @@
 :HL["/landnaya-online-site/_next/static/media/875ae681bfde4580-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/landnaya-online-site/_next/static/css/fd6acb3815330d27.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"c","key":"otnosheniya/kak-dogovarivatsya-v-otnosheniyah","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"T6TsT-ycT-ojFRWwCREep"}
+:HL["/landnaya-online-site/_next/static/css/a3f48eb7d45013de.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"c","key":"otnosheniya/kak-dogovarivatsya-v-otnosheniyah","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WsQOSMPg7ZBTzSmzRbSqt"}
